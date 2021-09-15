@@ -1,2 +1,4 @@
-# TareaPAP
-Tarea Programación de Aplicaciones - Tecnólogo Informatico 2019
+﻿# TareaPAP
+Tarea Programación de Aplicaciones - Tecnólogo informática 2019
+
+
